@@ -62,6 +62,6 @@ public class GoogleCalendarService {
                 .get(getCalendarId())
                 .execute();
 
-        System.out.println("Google Agenda conectado com sucesso!");
+         System.out.println("Google Agenda conectado com sucesso!");
     }
 }
