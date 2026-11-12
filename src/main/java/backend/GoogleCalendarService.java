@@ -102,7 +102,6 @@ public class GoogleCalendarService {
     }
 
     public void testarConexao() throws Exception {
-
         Calendar calendario = conectar();
 
         calendario.calendars()
